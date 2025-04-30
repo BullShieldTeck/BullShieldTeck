@@ -1,8 +1,7 @@
 <div align="center">
 
-# 🐂 BullShield | Créateur Passionné & Autodidacte
-
-*« Quand la créativité humaine s’unit à la puissance des machines, ça fait des étincelles ! »*  
+# BullShi3ld | Créateur Passionné & Autodidacte
+ 
 **Frontend 💅 | Python ⚙️ | Automatisation 🧠 | IA 🤖**
 
 ---
@@ -18,7 +17,7 @@
 ## 🔧 Les Super-pouvoirs Maison
 
 - **Python & Automatisation 🐍**  
-  Automatisation à gogo, petits scripts futés, IA maison… j’aime bidouiller et dénicher des solutions.
+  Automatisation à gogo, petits scripts, IA… j’aime bidouiller et trouver des solutions.
 
 - **JS pur & dur ⚡**  
   Passionné du code simple, léger et sans frameworks imposants.
@@ -27,13 +26,13 @@
   Des pages adaptables et épurées qui s’affichent bien partout.
 
 - **Artiste du Front 🎨**  
-  Animations et effets stylés avec Tailwind qui mettent tout de suite dans l’ambiance.
+  Animations et effets stylés qui mettent tout de suite dans l’ambiance.
 
 - **Prompt Engineer 🧠**  
   J’adore concevoir des prompts soigneux pour bien guider les IA et outils NLP.
 
 - **UI/UX Fluide 🔄**  
-  Interfaces soignées où tout coule naturellement, sans prise de tête.
+  Interfaces où tout coule naturellement, sans prise de tête.
 
 ---
 
