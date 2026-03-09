@@ -1,6 +1,6 @@
 <div align="center">
 
-# BullShi3ld | Créateur Passionné & Autodidacte
+# EkHo | BullShi3ld | Créateur Passionné & Autodidacte
  
 **Frontend 💅 | Python ⚙️ | Automatisation 🧠 | IA 🤖**
 
