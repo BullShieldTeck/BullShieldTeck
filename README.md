@@ -1,55 +1,47 @@
 <div align="center">
 
-# EkHo | BullShi3ld | Créateur Passionné & Autodidacte
- 
-**Frontend 💅 | Python ⚙️ | Automatisation 🧠 | IA 🤖**
+# EkHo | Vibe Coding & Web Créatif
+
+**Vibe Coding 🌀 | Web créatif | Automatisation | IA assistée**
 
 ---
 
-[Site web BullShi3ldAi](https://bullshield.onrender.com)  
-[Me rejoindre sur Telegram](https://t.me/BullShi3ld)  
-[Code sur GitHub](https://github.com/BullShieldTeck)
+[🌐 ekho.re](https://ekho.re)  
+[💌 contact@ekho.re](mailto:contact@ekho.re)  
+[💬 Telegram](https://t.me/BullShi3ld)  
+[💻 Code sur GitHub](https://github.com/BullShieldTeck)
 
 </div>
 
 ---
 
-## 🔧 Les Super-pouvoirs Maison
+## 🌀 Vibe Coding : coder autrement
 
-- **Python & Automatisation 🐍**  
-  Automatisation à gogo, petits scripts, IA… j’aime bidouiller et trouver des solutions.
+Le vibe coding, c’est programmer en s’appuyant à fond sur l’IA :
 
-- **JS pur & dur ⚡**  
-  Passionné du code simple, léger et sans frameworks imposants.
+- Tu expliques ce que tu veux en langage naturel, l’IA fait le reste.
+- Plus besoin de tout lire, tout écrire, ni de se battre avec la syntaxe.
+- L’idée prime, l’IA traduit — et toi tu ajustes, tu vibres, tu crées !
 
-- **Bâtisseur HTML5 & CSS3 🧱**  
-  Des pages adaptables et épurées qui s’affichent bien partout.
-
-- **Artiste du Front 🎨**  
-  Animations et effets stylés qui mettent tout de suite dans l’ambiance.
-
-- **Prompt Engineer 🧠**  
-  J’adore concevoir des prompts soigneux pour bien guider les IA et outils NLP.
-
-- **UI/UX Fluide 🔄**  
-  Interfaces où tout coule naturellement, sans prise de tête.
+**Ici, on code pour l’humain, la créativité et l’efficacité.**
 
 ---
 
-## 🤖 Le Projet Star : BullShi3ldAi
+## 🚀 Ce que je fais aujourd’hui
 
-Mon bébé du moment ! Une IA au cerveau multimodal, qui comprend plusieurs langues, sort des images à la volée et s’utilise direct via une interface 100% frontend.  
-Découvre-la ici : [bullshield.onrender.com](https://bullshield.onrender.com)  
-Envie d’en parler ? Passe sur [Telegram](https://t.me/BullShi3ld), je réponds toujours avec plaisir.
-
----
-
-## 🎯 Ma Philosophie
-
-Imaginer des IA différentes, avec une petite touche humaine et zéro backend, parce que la passion compte plus qu’un gros budget.  
-Bref, sortir des sentiers battus, miser sur l’envie et l’idée avant tout : “Pas besoin d’un gros budget quand on a une grosse vision.”
+- **Web créatif** : sites statiques, outils en ligne, interfaces fluides et accessibles.
+- **Automatisation** : scripts, no-code, connecteurs, tout pour gagner du temps.
+- **Expérimentations IA** : prompts, assistants, génération de contenu, mais sans dogme.
+- **Accompagnement** : vulgarisation, conseils, solutions sur-mesure pour tous.
 
 ---
 
-Si t’as envie de discuter, de collaborer ou juste dire bonjour, mes liens sont faits pour ça !
+## 🎯 Ma philosophie
 
+Sortir des sentiers battus, faire simple, utile et beau.  
+Mettre la technologie au service de l’idée, pas l’inverse.  
+Laisser l’IA faire le sale boulot, garder la vibe humaine et créative.
+
+---
+
+**Dispo pour échanger, collaborer ou juste partager une vibe !**
