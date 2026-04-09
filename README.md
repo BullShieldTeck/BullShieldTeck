@@ -8,7 +8,8 @@
 
 [🌐 ekho.re](https://ekho.re)  
 [💌 contact@ekho.re](mailto:contact@ekho.re)  
-[💬 Telegram](https://t.me/BullShi3ld)  
+[💬 WhatsApp](https://wa.me/message/G5VZMORW65IQI1) 
+[💬 Telegram](https://t.me/EkHo974?direct)  
 [💻 Code sur GitHub](https://github.com/BullShieldTeck)
 
 </div>
