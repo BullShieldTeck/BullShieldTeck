@@ -22,7 +22,7 @@ Le vibe coding, c’est programmer en s’appuyant à fond sur l’IA :
 
 - Tu expliques ce que tu veux en langage naturel, l’IA fait le reste.
 - Plus besoin de tout lire, tout écrire, ni de se battre avec la syntaxe.
-- L’idée prime, l’IA traduit — et toi tu ajustes, tu vibres, tu crées !
+- L’idée prime, l’IA traduit - et toi tu ajustes, tu vibres, tu crées !
 
 **Ici, on code pour l’humain, la créativité et l’efficacité.**
 
