@@ -57,7 +57,6 @@ Le **vibe coding**, c’est programmer en s’appuyant sur l’IA pour transform
 
 Si vous souhaitez me soutenir, vous pouvez faire un don :
 
-- [Faire un don via PayPal](https://paypal.me/lbnlebon) ⚡
 - [Soutenir sur Buy Me a Coffee](https://buymeacoffee.com/ekho974) ☕
 
 ---
