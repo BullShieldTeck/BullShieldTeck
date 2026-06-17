@@ -1,72 +1,55 @@
-# 🚀 AllDebrid Manager by EkHo
+# EkHo | Vibe Coding & Digital for Humans 🌀
 
-[![Release](https://img.shields.io/badge/Release-v1.0.2-brightgreen.svg)](https://github.com/BullShieldTeck/ALLDEBRID/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android-blue.svg?logo=android)](https://developer.android.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-Compose-purple.svg?logo=kotlin)](https://kotlinlang.org)
-
-**AllDebrid Manager** est un client Android moderne, fluide et performant conçu pour gérer votre compte AllDebrid de manière intuitive. Que vous souhaitiez débrider des liens, gérer vos torrents ou streamer vos contenus directement sur votre téléviseur ou votre téléphone, l'application centralise tous vos besoins premium dans une interface utilisateur soignée.
-
----
-
-## ✨ Fonctionnalités Clés
-
-### ⚡ Débridage Instantané & Streaming Direct
-- **Débridez en 1 Clic** : Collez n'importe quel lien d'hébergeur compatible (Uptobox, 1fichier, Rapidgator, etc.) et obtenez instantanément le lien premium haut débit.
-- **Lecteur Vidéo Intégré** : Visionnez vos vidéos débridées directement dans l'application grâce à l'intégration d'un lecteur média natif performant basé sur ExoPlayer.
-- **Gestion des Téléchargements** : Lancez vos téléchargements en local d'un simple clic avec le gestionnaire de téléchargement Android natif.
-
-### 🧲 Gestionnaire Avancé de Torrents & Magnets
-- **Ajout Multi-Source** : Ajoutez vos fichiers `.torrent` locaux ou collez simplement des liens Magnet.
-- **Suivi en Temps Réel** : Visualisez l'état de conversion (téléchargement par AllDebrid, seeders, vitesse, progression).
-- **Explorateur de Fichiers** : Parcourez l'arborescence des dossiers et fichiers de vos torrents terminés, puis débridez et streamez les fichiers individuels de votre choix.
-
-### 📺 Support Natif Google Cast (Chromecast)
-- **Diffusion Grand Écran** : Diffusez vos vidéos en haute définition directement sur votre TV en utilisant l'icône Cast intégrée.
-- **Conversion Dynamique (MIME-Type)** : Détection intelligente des formats vidéo (`.mp4`, `.mkv`, `.ts`, `.m3u8`) pour assurer une compatibilité et une lecture optimale sur les récepteurs Chromecast.
-- **Contrôles Intégrés** : Gérez la lecture (Play, Pause, position de lecture) depuis le panneau de contrôle de votre smartphone.
-
-### 🎨 Design Premium & AMOLED Noir Pur
-- **Thème Sombre & AMOLED** : Profitez d'un thème noir pur spécialement adapté aux écrans AMOLED afin d'économiser votre batterie tout en profitant d'un superbe design moderne.
-- **Personnalisation de l'Avatar** : Modifiez, réinitialisez et chargez vos photos de profil directement dans l'application avec un rafraîchissement immédiat de l'interface.
-- **Optimisé pour tous les Écrans** : Interface adaptative pour smartphones, tablettes et écrans pliables (mode paysage avec barre de navigation latérale dynamique).
-
-### 🔄 Mises à Jour In-App Premium
-- **Notification Instantanée** : L'application intègre un vérificateur de mise à jour premium qui vous alerte dès qu'une nouvelle version est disponible.
-- **Notes de Version** : Consultez les nouveautés détaillées directement dans l'application et téléchargez la mise à jour instantanément.
+<div align="center">
+  <img src="https://ekho.re/img/logo.webp" alt="EkHo Logo" width="120" />
+  <h3>Vibe Coding | Web Créatif | Automatisation | IA assistée</h3>
+  <p>Basé à l'Île de la Réunion (974) 🇷🇪</p>
+  
+  [![Website](https://img.shields.io/badge/Website-ekho.re-blue?style=for-the-badge&logo=google-chrome)](https://ekho.re)
+  [![GitHub](https://img.shields.io/badge/GitHub-BullShieldTeck-black?style=for-the-badge&logo=github)](https://github.com/BullShieldTeck)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/message/G5VZMORW65IQI1)
+</div>
 
 ---
 
-## 🛠️ Comment ça Marche ?
+## 🌀 Qu'est-ce que le "Vibe Coding" ?
 
-1. **Association Ultra Simple** :
-   - Au premier lancement, connectez-vous instantanément en générant un code PIN d'association à valider sur votre compte AllDebrid, ou saisissez votre clé API manuellement.
-   - Si vous n'avez pas de compte, un lien de création rapide est intégré.
-2. **Utilisation** :
-   - **Débrider** : Collez vos liens dans l'onglet *Débrider*.
-   - **Torrents** : Ajoutez et suivez vos fichiers magnétiques ou torrents dans l'onglet *Torrents*.
-   - **Historique** : Retrouvez l'historique complet de tous vos liens débridés pour les re-télécharger ou les re-streamer à tout moment.
+Le **vibe coding**, c’est programmer en s’appuyant sur l’IA pour transformer l’idée en réalité instantanément. 
+- **L'intention prime sur la syntaxe** : Expliquer en langage naturel, laisser l'IA traduire.
+- **Vitesse & Fluidité** : Créer, itérer et ajuster en temps réel.
+- **Focus Humain** : Passer moins de temps sur le "comment" technique et plus sur le "pourquoi" créatif.
 
 ---
 
-## 📸 Aperçus & Design
+## 🚀 Mes Univers & Projets Phares
 
-*Interface moderne et épurée respectant les lignes directrices de Material Design 3 :*
+### 🌍 Impact Local & Inclusion (974)
+*Rendre le numérique accessible à tous, sans jargon, avec une approche de proximité.*
 
-| Connexion & Association PIN | Gestionnaire de Torrents | Mode AMOLED Noir Pur |
-|:---:|:---:|:---:|
-| <img src="img/Setup_Screen.jpg" width="250" alt="Setup Screen"/> | <img src="img/torrents_Screen.jpg" width="250" alt="Torrents Screen"/> | <img src="img/AMOled%20Dark%20Mode.jpg" width="250" alt="AMOled Dark Mode"/> |
+- **[EkHo.re (Main Site)](https://ekho.re/)** : Un portail d'outils ultra-simplifiés (SaaS "Zéro Stress") conçus pour les seniors et les débutants. *Privacy-first, 100% local processing.*
 
-*(Images d'illustration à titre de démonstration de l'interface utilisateur)*
+### 🛠️ Outils & Automatisation (Power-User)
+*Gagner du temps, bypasser les limites, optimiser le quotidien.*
+
+- **[AllDebrid Manager Android](https://github.com/BullShieldTeck/ALLDEBRID)** : Client Android moderne (Kotlin Compose) pour le streaming et la gestion de torrents.
+- **[Budget Familial](https://github.com/BullShieldTeck/BUDGET)** : App 100% frontend (Vanilla JS) de suivi budgétaire multi-membres avec thèmes Cyberpunk/Retrowave.
 
 ---
 
-## 📥 Téléchargements
+## 🛠️ Mon Stack Technique
 
-Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/ALLDEBRID/releases)** pour télécharger la dernière version stable de l'application au format APK :
+- **Frontend** : Next.js (App Router), React, Tailwind CSS 4, Vanilla JS (Simplicité radicale).
+- **Backend & Scripts** : Python (SQLite, Mutagen, Automation), Node.js.
+- **Mobile** : Kotlin Jetpack Compose.
+- **DevOps** : Docker, PowerShell Automation, Vibe Coding Workflow.
 
-1. Téléchargez le fichier `AllDebrid_Manager_release.apk`.
-2. Autorisez l'installation d'applications de sources inconnues dans les paramètres de votre appareil si nécessaire.
-3. Installez l'APK et profitez de vos contenus !
+---
+
+## 🎯 Ma Philosophie : "Digital for Humans"
+
+1. **Simplicité Radicale** : Un bouton = une action claire. Pas de jargon.
+2. **Confidentialité par Design** : Traitement local au maximum. Vos données vous appartiennent.
+3. **L'humain au centre** : La technologie doit être un allié, pas un obstacle.
 
 ---
 
@@ -78,15 +61,10 @@ Si vous appréciez cette application et souhaitez soutenir son développement, v
 
 ---
 
-## 🔒 Confidentialité & Sécurité
-- L'application communique exclusivement et directement avec les API sécurisées d'**AllDebrid** (`api.alldebrid.com`).
-- Vos identifiants et clés API sont stockés localement sur votre appareil de façon chiffrée via les préférences système Android et ne sont **jamais** partagés avec des serveurs tiers.
+**Dispo pour échanger, collaborer ou juste partager une vibe !**
 
----
+[🌐 ekho.re](https://ekho.re) | [💌 contact@ekho.re](mailto:contact@ekho.re) | [✈️ Telegram](https://t.me/EkHo974?direct)
 
-## ⚖️ Clause de Non-Responsabilité (Disclaimer)
-*Cette application est un projet indépendant et n'est pas affiliée à, ni approuvée par AllDebrid. Vous devez posséder un compte AllDebrid valide pour pouvoir utiliser les fonctionnalités de cette application.*
-
-## 📄 Licence et Droits d'auteur
-Tous droits réservés. 
-Il est interdit de modifier ou décompiler cet APK sans autorisation préalable.
+<div align="right">
+  <em>Fait avec ❤️ et beaucoup d'IA à l'Île de la Réunion.</em>
+</div>
